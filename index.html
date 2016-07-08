@@ -4,6 +4,8 @@
   <head>
     <meta charset="utf-8" />
     <title>Angular To-Do</title>
+    <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="stylesheet.css"></link>
     <script src="angular.min.js" charset="utf-8"></script>
     <script src="app.js"></script>
   </head>
@@ -11,7 +13,7 @@
   <body ng-controller="MainController">
 
     <h1>To Do This Weekend</h1>
-    <h2>Type to add an item, then click to add!</h2>
+    <h2>Type an item, then click to add!</h2>
 
     <input type="text" ng-model="taskItem" />
     <button ng-click="handleClick()">Add</button>

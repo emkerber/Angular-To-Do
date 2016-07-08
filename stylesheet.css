@@ -1,0 +1,12 @@
+body {
+  background-image: url(dark_embroidery.png);
+  background-color: #000000;
+  margin: 50px;
+  color: #FFDEAD;
+  font-family: 'Oswald', sans-serif;
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
