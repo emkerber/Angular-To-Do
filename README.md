@@ -16,5 +16,7 @@ Some of the directives you will use are:
 ## Hard Mode
 Have a remove button that removes single items once complete.
 
-## Pro Mode
-Add check boxes to items and allow multiple items to be completed at once.
+========================================================
+This pattern is downloaded from www.subtlepatterns.com
+If you need more, that's where to get'em.
+========================================================
